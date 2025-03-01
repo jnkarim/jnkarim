@@ -4,7 +4,7 @@ I’m **Julker Nayeen Karim**, a **3rd-year CS student** at **AUST** with a pass
 ---
 
 ## 🚀 Skills & Interests  
-**Tech Stack:** React, Laravel, MySQL, Tailwind CSS, C++, Python, JavaScript  
+**Tech Stack:** React, Laravel, MySQL, Tailwind CSS, C++, JavaScript  
 
 ---
 
