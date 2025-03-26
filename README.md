@@ -9,20 +9,13 @@
 ## 🛠️ Technical Skills  
 
 ### **Programming Languages**  
-![C++](https://img.shields.io/badge/-C++-F34B7D?logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-E76F00?logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-F34B7D?logo=cplusplus&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-E76F00?logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
 
 ### **Frontend Development**  
-![React](https://img.shields.io/badge/-React-38BDF8?logo=react&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0F172A?logo=tailwind-css&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/-React-38BDF8?logo=react&logoColor=black)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0F172A?logo=tailwind-css&logoColor=white)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 
 ### **Backend & Frameworks**  
-![Laravel](https://img.shields.io/badge/-Laravel-F72D20?logo=laravel&logoColor=white)  
-![REST API](https://img.shields.io/badge/-REST_API-F97316?logo=api&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-F72D20?logo=laravel&logoColor=white)  ![REST API](https://img.shields.io/badge/-REST_API-F97316?logo=api&logoColor=white)  
 
 ### **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
