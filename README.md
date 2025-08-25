@@ -1,8 +1,3 @@
-<!-- GIF -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2c/58/3f/2c583fda6a2a735f3d8c3e4e70d8bebe.gif" width="300" alt="anime coding gif"/>
-</p>
-
 ### Hi, I’m **Julker Nayeen Karim**  
 3rd-Year **CSE** @ **AUST** · Competitive Programmer · Full-Stack Developer  
 
