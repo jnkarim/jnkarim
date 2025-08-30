@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="pg.jpg" alt="Profile Picture" width="260" style="border-radius:50%; margin-bottom:20px;" />
+  <img src="pg.jpg" alt="Profile Picture" width="300" style="border-radius:50%; margin-bottom:20px;" />
 </p>
 
 <h1 align="center">Hi, I’m <span style="color:#58a6ff;">Julker Nayeen Karim</span> 👋</h1>
@@ -58,5 +58,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jnkarim&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jnkarim&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views" />
 </p>
