@@ -3,7 +3,7 @@
   <img src="pg.jpg" alt="Profile Picture" width="300" style="border-radius:50%; margin-bottom:20px;" />
 </p>
 
-<h1 align="center">Hi, I’m <span style="color:#58a6ff;">Julker Nayeen Karim</span> 👋</h1>
+<h1 align="center">Hi, I’m <span style="color:#58a6ff;">Julker Nayeen Karim</span> </h1>
 <h3 align="center">3rd-Year CSE @ AUST · Full-Stack Developer</h3>
 
 ---
