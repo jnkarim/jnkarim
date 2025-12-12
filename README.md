@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I’m <span style="color:#58a6ff;">Julker Nayeen Karim</span> </h1>
-<h3 align="center">3rd-Year CSE @ AUST · Full-Stack Developer</h3>
+<h3 align="center">Final-Year CSE @ AUST · Full-Stack Developer</h3>
 
 ---
 
