@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="pg.jpg" alt="Profile Picture" width="300" style="border-radius:50%; margin-bottom:20px;" />
+  <img src="solve.jpg" alt="Profile Picture" width="300" style="border-radius:50%; margin-bottom:20px;" />
 </p>
 
 <h1 align="center">Hi, I’m <span style="color:#58a6ff;">Julker Nayeen Karim</span> </h1>
