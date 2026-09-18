@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=7C7CFF&center=true&vCenter=true&width=720&lines=Software+Developer;Full-Stack+Engineer;Computer+Vision+%26+AI+Enthusiast;Building+software+with+real-world+impact" alt="Typing introduction" />
 
-<a href="https://github.com/jnkarim">
-  <img src="https://img.shields.io/badge/GitHub-jnkarim-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
 <a href="https://www.linkedin.com/in/jnkarim/">
   <img src="https://img.shields.io/badge/LinkedIn-jnkarim-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
