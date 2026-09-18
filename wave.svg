@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" preserveAspectRatio="none" role="img" aria-label="Animated gradient wave">
+  <defs>
+    <linearGradient id="pinkWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d7a0b0"/>
+      <stop offset="100%" stop-color="#9a7fb0"/>
+    </linearGradient>
+    <linearGradient id="purpleWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9b82b5"/>
+      <stop offset="100%" stop-color="#7776d8"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#pinkWave)" opacity="0.62"
+        d="M0 78 C200 128 400 148 600 102 C800 56 1000 58 1200 100 L1200 180 L0 180 Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+        M0 78 C200 128 400 148 600 102 C800 56 1000 58 1200 100 L1200 180 L0 180 Z;
+        M0 102 C200 54 400 58 600 104 C800 150 1000 128 1200 78 L1200 180 L0 180 Z;
+        M0 78 C200 128 400 148 600 102 C800 56 1000 58 1200 100 L1200 180 L0 180 Z" />
+  </path>
+
+  <path fill="url(#purpleWave)" opacity="0.58"
+        d="M0 104 C200 58 400 60 600 104 C800 148 1000 126 1200 76 L1200 180 L0 180 Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="
+        M0 104 C200 58 400 60 600 104 C800 148 1000 126 1200 76 L1200 180 L0 180 Z;
+        M0 76 C200 126 400 148 600 102 C800 58 1000 58 1200 104 L1200 180 L0 180 Z;
+        M0 104 C200 58 400 60 600 104 C800 148 1000 126 1200 76 L1200 180 L0 180 Z" />
+  </path>
+</svg>
