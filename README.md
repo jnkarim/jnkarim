@@ -26,7 +26,7 @@ I'm **Julker Nayeen Karim**, a software developer with a Computer Science & Engi
 
 I enjoy building production-ready web applications with **React, Next.js, TypeScript, and Express.js**, while also exploring applied **AI and computer vision** through hands-on projects.
 
-I previously worked as a **Software Developer at EZ Simple Consulting**, a remote USA-based startup, where I developed and maintained web applications for a gaming platform and an online voting system, with a focus on responsive interfaces, performance, scalability, and reusable architecture.
+I work as a **Software Developer at EZ Simple Consulting**, a remote USA-based startup, where I develop and maintain web applications, with a focus on responsive interfaces, performance, scalability, and reusable architecture.
 
 > 🏅 **2026 Highlight:** Honourable Mention at the Bangladesh Blockchain Olympiad 2026 · International Round Nominee
 
