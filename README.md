@@ -1,7 +1,7 @@
 <h1 align="center">Julker Nayeen Karim</h1>
 
 <p align="center">
-  <b>Software Developer · Full-Stack Engineer · AI & Computer Vision Enthusiast</b>
+  <b>Software Developer · CSE Undergrad · AI & Computer Vision Enthusiast</b>
 </p>
 
 <div align="center">
