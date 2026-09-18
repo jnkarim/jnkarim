@@ -1,62 +1,116 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="solve.jpg" alt="Profile Picture" width="300" style="border-radius:50%; margin-bottom:20px;" />
-</p>
+<h1 align="center">~ Hello there! I'm Julker ~</h1>
 
-<h1 align="center">Hi, I’m <span style="color:#58a6ff;">Julker Nayeen Karim</span> </h1>
-<h3 align="center">CSE Undergrad @AUST | Next.js • TypeScript • React • Node</h3>
-
----
-
-## ⚙️ Tech Stack
 <div align="center">
 
-### 💻 Languages  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=7C7CFF&center=true&vCenter=true&width=720&lines=Software+Developer;Full-Stack+Engineer;Computer+Vision+%26+AI+Enthusiast;Building+software+with+real-world+impact" alt="Typing introduction" />
 
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-
-### ⚡ Backend  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-005571?logo=fastapi&logoColor=white&style=for-the-badge)
-
-### 🗄️ Database  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-
-### 🔧 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+<a href="https://github.com/jnkarim">
+  <img src="https://img.shields.io/badge/GitHub-jnkarim-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/jnkarim/">
+  <img src="https://img.shields.io/badge/LinkedIn-jnkarim-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:julkernkarim@gmail.com">
+  <img src="https://img.shields.io/badge/Email-julkernkarim%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=jnkarim&style=flat-square&color=6f42c1&label=Profile+views" alt="Profile views" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 👋 Hi there
+
+I'm **Julker Nayeen Karim**, a software developer with a Computer Science & Engineering background from **Ahsanullah University of Science and Technology (AUST)** and one year of professional software development experience. I enjoy building production-ready web applications with **React, Next.js, TypeScript, and Express.js**, while also exploring applied **AI and computer vision** through hands-on projects.
+
+I previously worked as a **Software Developer at EZ Simple Consulting**, a remote USA-based startup, where I developed and maintained web applications for a gaming platform and an online voting system, with a focus on responsive interfaces, performance, scalability, and reusable architecture.
+
+> 🏅 **2026 Highlight:** **Honourable Mention (Ranked 7th)** at the **Bangladesh Blockchain Olympiad** — nominated to represent **Bangladesh in the International Round**.
+
+---
+
+## 🧰 My Tech
+
+- **Languages** — `C` `C++` `Python` `Java` `JavaScript` `TypeScript`
+- **Frontend** — `React` `Next.js` `Tailwind CSS`
+- **Backend** — `Node.js` `Express.js` `FastAPI`
+- **Databases** — `MySQL` `MongoDB` `PostgreSQL`
+- **AI / ML / CV** — `PyTorch` `TensorFlow` `YOLO11` `OpenCV` `Pandas` `NumPy`
+- **Tools** — `Git` `GitHub` `Postman`
+
+---
+
+## 💼 Experience
+
+### Software Developer · EZ Simple Consulting
+**Remote · USA-based Startup** · *May 2025 — Apr 2026*
+
+- Developed and maintained multiple web applications supporting a gaming platform and an online voting system.
+- Built responsive, production-ready features with **Next.js, React, and TypeScript**, with attention to performance and scalability.
+- Collaborated with a distributed team to maintain code quality, consistency, and reusable architecture across interconnected projects.
+
+---
+
+## 🚀 Featured Projects
+
+### 🛰️ AeroSight
+**Drone-based aerial surveillance and computer-vision platform**
+
+Built an end-to-end system for real-time human and vehicle detection, counting, and visualization. Fine-tuned a **YOLO11n** model on a custom two-class VisDrone dataset and built a **FastAPI + Next.js** application for image upload, confidence filtering, object counting, and annotated results.
+
+**Tech:** `YOLO11` `FastAPI` `Next.js` `TypeScript` `PyTorch` `OpenCV` `ByteTrack`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-2ea44f?style=flat-square&logo=vercel&logoColor=white)](https://aero-sight.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/jnkarim/AeroSight)
+
+### 📚 BookCycle
+**Community-driven book exchange platform**
+
+Created a platform that helps students share, donate, and access textbooks more easily. Added real-time chat with **JWT authentication** and integrated a **Gemini-powered chatbot** for common questions about book availability and exchange procedures.
+
+**Tech:** `React.js` `Tailwind CSS` `Express.js` `Node.js` `MongoDB` `Cloudinary`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-2ea44f?style=flat-square&logo=vercel&logoColor=white)](https://book-cycle-cxry.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/jnkarim/BookCycle)
+
+---
+
+## 🏆 Recognition
+
+- 🏅 **Honourable Mention (Ranked 7th)** — Bangladesh Blockchain Olympiad 2026 · Nominated to represent Bangladesh in the International Round
+- 🏆 **Champion, Programming Contest** — Cefalo AUST CSE Carnival 2.0
+- 🥈 **Runners-up, Software Exhibition** — AUST CSE Carnival 4.0
+- 🇧🇩 **National Selection, Innovation Zone** — Digital Device & Innovation Expo 2026, ICT Division, Bangladesh
+- 💡 **Top 15, Impact Dhaka 2026** — CognisorAI & BUET IEEE Hackathon
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jnkarim&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="170" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnkarim&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jnkarim&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Julker's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnkarim&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=jnkarim&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
 </div>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/jnkarim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+## 🤝 Let's Connect
+
+I'm interested in building reliable software, learning new technologies, and working on products that create practical impact.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jnkarim/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:julkernkarim@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jnkarim&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views" />
-</p>
+<br/>
+
+<img src="./assets/wave.svg" width="100%" alt="Animated gradient wave" />
